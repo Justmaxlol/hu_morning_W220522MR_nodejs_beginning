@@ -1,0 +1,1 @@
+global.samData = 5;
